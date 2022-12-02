@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vishnu Prasad
+- 👋 Hi, I’m Vishnu Prasad.
 - 👀 I’m interested in Linux, and programming. 
-- 🌱 I’m currently learning Python, Golang, Kubernetes and Openstack
-- 💞️ I’m looking to collaborate on open source projects 
+- 🌱 I’m currently learning Python, Golang, Kubernetes and Openstack.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me @prasad_vishnu on Telegram. 
 
 <!---
